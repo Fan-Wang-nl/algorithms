@@ -47,7 +47,7 @@ public class Solution {
      
         return sum;
         
-        //we can write this process recursion 
+        //we can do it recursion 
         /*
         if(b != 0):
             carry = (a & b)<<1
