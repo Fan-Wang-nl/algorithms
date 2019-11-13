@@ -36,13 +36,15 @@ public class Solution {
      */
     public int aplusb(int a, int b) {
         // write your code here
-        int c;
-        while((a & b) > 0)
-        {
-            c = a ^ b;
-            a = (a & b)<<1;
-            b = c;
+        int sum = a;
+        int carry = b;
+     
+        while(carry != 0){
+            int new_carry = (sum & carry) << 1;
+            sum = sum ^ carry;
+            carry = new_carry;
         }
-        return (a | b);
+     
+        return sum;
     }
 }
