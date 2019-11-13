@@ -46,5 +46,18 @@ public class Solution {
         }
      
         return sum;
+        
+        //we can write this process recursion 
+        /*
+        if(b != 0):
+            carry = (a & b)<<1
+            a = b ^ a
+            return aplusb(a, carry)
+        else:
+            return a
+        */
+        
+        //or we can write it in an elegent way
+        //return b == 0 ? a : aplusb(a ^ b, (a & b) << 1);
     }
 }
