@@ -27,10 +27,8 @@ public class Solution {
      * @return: An integer, denote the number of trailing zeros in n!
      */
     public long trailingZeros(long n) {
-        // write your code here, try to do it without arithmetic operators.
-        
-        // just need to count the number of "5" in the numbers
-        
+        // write your code here, try to do it without arithmetic operators.        
+        // just need to count the number of "5" in the numbers        
         
         long count = 0;
         long temp=n/5;
