@@ -28,6 +28,7 @@ class Solution:
     def trailingZeros(self, n):
         # write your code here, try to do it without arithmetic operators.
         count = 0
+	//extract 5's from the list, and the number of 5 should be the quotient and the remainder is useless
         tmp = int(n/5)
         while(tmp):
             count = count + tmp
