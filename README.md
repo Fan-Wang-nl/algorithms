@@ -8,5 +8,7 @@ Your submission beats 92.00% Submissions!
 
 [2. Trailing Zeros](https://github.com/Fan-Wang-nl/algorithms/blob/master/TrailingZeros.py)
 
+key point: just need to find how many 5's are there in the list
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/TrailingZeros.java)
 
+[3. Digit Counts](https://github.com/Fan-Wang-nl/algorithms/blob/master/digitsCounts.py)
