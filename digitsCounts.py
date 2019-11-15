@@ -39,5 +39,6 @@ class Solution:
         #solution 2, learned it from discussion
         """
         #result:100% test cases passedTotal runtime 101 ms; Your submission beats 99.00% Submissions!
+        #this tells us there is always a better way as long as you can think out of box
         return ''.join(map(str,range(n+1))).count(str(k))
         """
