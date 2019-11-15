@@ -29,7 +29,15 @@ class Solution:
     """
     def digitCounts(self, k, n):
         # write your code here
+        
+        #solution 1
         cnt=0
         for i in range(n+1):
             cnt+=int(str(i).count(str(k)))
         return cnt
+    
+        #solution 2, learned it from discussion
+        """
+        #result:100% test cases passedTotal runtime 101 ms; Your submission beats 99.00% Submissions!
+        return ''.join(map(str,range(n+1))).count(str(k))
+        """
