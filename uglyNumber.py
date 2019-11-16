@@ -35,3 +35,7 @@ class Solution:
             ugly.add(minNumber*3)
             ugly.add(minNumber*5)
         return minNumber
+"""
+100% test cases passedTotal runtime 101 ms
+Your submission beats 100.00% Submissions!
+"""
