@@ -14,6 +14,12 @@ key point: just need to find how many 5's are there in the list.
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/digitsCounts.java)
 
-[4. 4. Ugly Number II](https://github.com/Fan-Wang-nl/algorithms/blob/master/uglyNumber.py)
+[4. Ugly Number II](https://github.com/Fan-Wang-nl/algorithms/blob/master/uglyNumber.py)
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/uglyNumber.java)
+
+[5. Kth Largest Element](https://github.com/Fan-Wang-nl/algorithms/blob/master/kthLargestElement.py)
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/kthLargestElement.java)
+
+
