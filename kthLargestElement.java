@@ -49,7 +49,7 @@ public class Solution {
         }
         int firstKey = 0;
 
-
+        //n should be less than nums.length
         for(int i = n; i < nums.length; i++)
         {
             firstKey = treeMap.keySet().iterator().next();
