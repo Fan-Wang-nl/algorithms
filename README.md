@@ -22,4 +22,8 @@ key point: just need to find how many 5's are there in the list.
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/kthLargestElement.java)
 
+[6. Merge Two Sorted Arrays](https://github.com/Fan-Wang-nl/algorithms/blob/master/Merge2SortedArrays.py)
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/Merge2SortedArrays.Java)
+
 
