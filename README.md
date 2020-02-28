@@ -53,6 +53,6 @@ key point: just need to find how many 5's are there in the list.
 15. Permutations
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/permutations.java)
 
-16. Permutations II
+16. Permutations II(unsolved)
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/permutations2.java)
