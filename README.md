@@ -41,3 +41,18 @@ key point: just need to find how many 5's are there in the list.
 12. Min Stack
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/minStack.java)
+
+13. Implement strStr()
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/impleStrStr.java)
+
+14. First Position of Target
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/firstPosTarget.java)
+
+15. Permutations
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/permutations.java)
+
+16. Permutations II
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/permutations2.java)
