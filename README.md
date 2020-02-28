@@ -33,3 +33,7 @@ key point: just need to find how many 5's are there in the list.
 [8. Rotate String](https://github.com/Fan-Wang-nl/algorithms/blob/master/RotateString.py)
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/RotateString.java)
+
+11. Search Range in Binary Search Tree
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/searchRangeInBT.java)
