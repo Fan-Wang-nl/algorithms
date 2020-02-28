@@ -32,4 +32,4 @@ key point: just need to find how many 5's are there in the list.
 
 [8. Rotate String](https://github.com/Fan-Wang-nl/algorithms/blob/master/RotateString.py)
 
-[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/Merge2SortedArrays.Java)
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/RotateString.java)
