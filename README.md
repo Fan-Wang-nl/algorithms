@@ -26,6 +26,10 @@ key point: just need to find how many 5's are there in the list.
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/Merge2SortedArrays.Java)
 
-[7. Serialize and Deserialize Binary Tree]
+7. Serialize and Deserialize Binary Tree
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/SerialAndDeserialBT.java)
+
+[8. Rotate String](https://github.com/Fan-Wang-nl/algorithms/blob/master/RotateString.py)
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/Merge2SortedArrays.Java)
