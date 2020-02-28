@@ -37,3 +37,7 @@ key point: just need to find how many 5's are there in the list.
 11. Search Range in Binary Search Tree
 
 [Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/searchRangeInBT.java)
+
+12. Min Stack
+
+[Java code here](https://github.com/Fan-Wang-nl/algorithms/blob/master/minStack.java)
